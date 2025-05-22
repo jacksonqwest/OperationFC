@@ -9,12 +9,12 @@ If you have the time to offer advice, expertise, effort, corroborating informati
 <br /><br />
 Having recently re-published a bare-bones landing page for public(ish) consumption, I have a phone that needs backing up because the Android OS running the UI clearly isn't the OS running the bare metal, if you will (DNS requests are coming back from servers I never use and can't be found in my settings, strange locations pop up under called numbers indicating that my calls are, in fact, subject to MITM taps -- including 911 and 311 calls from the carrier number -and- regular calls from a Google Voice number, and so forth.  Not sure if ADB will actually get everything-everything (pretty sure it won't) so short of SOIC is there a way to get past the VM to the Hypervisor?
 <br /><br />
-The good news is that the hubris of the soulless monsters doing the surveillance and harrassment means they have not packed out what they packed in. Ever.  Sloppy doesn't begin to describe it, thought at this point people may be deliberately screwing up to offer me acknowledgement and themselves and their consciences some hope of a way out.
+The good news is that the hubris of the soulless monsters doing the surveillance and harrassment means they have not packed out what they packed in. Ever.  Sloppy doesn't begin to describe it, thought at this point people may be deliberately screwing up to offer me acknowledgement and themselves and their consciences some hope of a way out.  If so, getting me access to Facebook and links to wherever the mob violence is actually being organized, proxies recruited, public individuals or private institutions enlisted would all be crucial to establishing the reality of the City- and community-wide nature of this beyond the capacity of bigots to continue abusing me with lies and other gaslighting.
 <br /><br />
 Really, though, please just reach out.  I know I have often gotten things wildly wrong. Wildly wrong!  But I can demonstrate that, sadly, the essence of what I feared might be true is.  And I'm not sure even many of those who may feel personally or primarly resonsible understand how much bigger than them it was, or has become, and should probably be warned and invited in before shunned and scorned.  So if I have, apologies.  Sincerely.
 <br /><br />
 Jackson West<br />
-42 Washburn Street<br />
+42 Washburn St, RM 202<br />
 San Francisco, CA  94103<br />
 jacksonqwest@gmail.com<br />
 628-254-0446*<br />
