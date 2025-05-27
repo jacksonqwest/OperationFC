@@ -1,6 +1,8 @@
 # OperationFC
 A forensic investigation seeking to identify sources of system-destabilizing corruption
 <br /><br />
+https://gitlab.com/jacksonqwest/OperationFC
+<br /><br />
 I recently reached out to the San Francisco Police Department via 911 potentially afraid for my life.  Not that there was someone pointing a shotgun at me directly, but that after years of understanding I was a target of unwelcome, unsolicited, unhealthy attention I was concerned that I might have gotten close enough to a name and that the name was well know and well resourced enough that, along with personal experience and some events that I might not have understood at the time of their passing as relevant, I was worried I might both "know to much" and "be adequately credible" to invite escalation from psycho-social mob violence to the poisoned darts and brickbats kind.
 <br /><br />
 The officer I spoke with, who didn't insist on coming over or demand the room number in my building, came across as attentive and reasonably credible.  But they insisted they needed something that tied my current "person of interest" directly to me.  Something independently verifiable.  I gave them the names of a couple people who might have some information, but might be reluctant to come forward, and pointed out that I had a good deal of drives with operating systems and data that might include evidence of intrusion efforts.  It's on that latter I'd like to focus here.
